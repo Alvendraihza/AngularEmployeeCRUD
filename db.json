@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "firstName": "Jamal",
+      "lastName": "Udin",
+      "email": "jamal@gmail.com",
+      "mobile": "9930103890",
+      "salary": "50,000"
+    },
+    {
+      "id": 2,
+      "firstName": "Alvendra",
+      "lastName": "Ihza",
+      "email": "alvendraihza@gmail.com",
+      "mobile": "9930103892",
+      "salary": "50,000"
+    },
+    {
+      "id": 3,
+      "firstName": "Adon",
+      "lastName": "Romadhon",
+      "email": "adon@gmail.com",
+      "mobile": "9930103893",
+      "salary": "51,000"
+    },
+    {
+      "id": 4,
+      "firstName": "Aira",
+      "lastName": "zas",
+      "email": "aira@gmail.com",
+      "mobile": "9930103891",
+      "salary": "51,000"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
